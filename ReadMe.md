@@ -1,2 +1,2 @@
-#Reason why my design is better than current Dr. Tania onboarding process
+# Reason why my design is better than current Dr. Tania onboarding process
 Because I don't use email in the registration form. I used a telephone number and verified it with OTP. In addition, I also added background to the login and registration page. I hope that the registration and login that I make also minimizes the user's efforts to log in and register. I also pay attention to the Android lifecycle and empty the activity stack at a point with the aim of minimizing the use of smartphone resources.

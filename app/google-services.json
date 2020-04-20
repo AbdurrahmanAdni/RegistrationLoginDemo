@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515279073178",
+    "firebase_url": "https://registration-login-demo.firebaseio.com",
+    "project_id": "registration-login-demo",
+    "storage_bucket": "registration-login-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515279073178:android:64070a7c8e00590b3d5423",
+        "android_client_info": {
+          "package_name": "com.example.registration_logindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515279073178-ubpfegdv4ubupco2momuv8fne668msf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb6DotDTXsfEm2J3ryNcHRq49pSw6b_J4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515279073178-ubpfegdv4ubupco2momuv8fne668msf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

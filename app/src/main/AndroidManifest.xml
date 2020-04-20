@@ -9,6 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".ForgotPasswordActivity"
+            android:parentActivityName=".MainActivity"></activity>
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".VerifyPhoneActivity" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".RegistrationActivity"
+            android:parentActivityName=".MainActivity"></activity>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
